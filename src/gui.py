@@ -15,7 +15,7 @@ from sklearn.linear_model import LinearRegression
 import os
 import platform
 
-
+# malá změna
 
 """
 Vyzkoušení zda program běží na Raspberry Pi či nikoli
